@@ -1,0 +1,509 @@
+
+.connectivity {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.connectivity .div {
+    background-color: #ffffff;
+    overflow-x: hidden;
+    width: 1440px;
+    height: 668px;
+    position: relative;
+}
+
+.connectivity .top-taskbar-menu {
+    position: absolute;
+    width: 749px;
+    height: 63px;
+    top: 18px;
+    left: 56px;
+}
+
+.connectivity .text-wrapper {
+    position: absolute;
+    top: 22px;
+    left: 186px;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .text-wrapper-2 {
+    position: absolute;
+    top: 22px;
+    left: 86px;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .text-wrapper-3 {
+    position: absolute;
+    top: 22px;
+    left: 0;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .image {
+    position: absolute;
+    width: 136px;
+    height: 63px;
+    top: 0;
+    left: 607px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+}
+
+.connectivity .group {
+    position: absolute;
+    width: 1791px;
+    height: 27px;
+    top: 516px;
+    left: 509px;
+}
+
+.connectivity .right {
+    left: 0;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .img {
+    left: 222px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .right-2 {
+    left: 445px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .right-3 {
+    left: 671px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .right-4 {
+    left: 887px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .right-5 {
+    left: 1105px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .right-6 {
+    left: 1325px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .right-7 {
+    left: 1545px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .right-8 {
+    left: 1764px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 0;
+}
+
+.connectivity .CONNECTIVITY {
+    position: absolute;
+    width: 238px;
+    height: 25px;
+    top: 110px;
+    left: 601px;
+}
+
+.connectivity .overlap-group-wrapper {
+    position: absolute;
+    width: 285px;
+    height: 61px;
+    top: 145px;
+    left: 265px;
+}
+
+.connectivity .overlap-group {
+    width: 283px;
+    height: 61px;
+    position: relative;
+    border-radius: 50px;
+}
+
+.connectivity .text-wrapper-4 {
+    position: absolute;
+    top: 10px;
+    left: 24px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle {
+    width: 283px;
+    height: 61px;
+    background-color: #9a957d;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .overlap-wrapper {
+    position: absolute;
+    width: 285px;
+    height: 61px;
+    top: 246px;
+    left: 265px;
+}
+
+.connectivity .text-wrapper-5 {
+    position: absolute;
+    top: 10px;
+    left: 34px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-2 {
+    width: 283px;
+    height: 61px;
+    background-color: #91a071;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .div-wrapper {
+    position: absolute;
+    width: 285px;
+    height: 61px;
+    top: 347px;
+    left: 265px;
+}
+
+.connectivity .text-wrapper-6 {
+    position: absolute;
+    top: 10px;
+    left: 96px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-3 {
+    width: 283px;
+    height: 61px;
+    background-color: #608b89;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .group-2 {
+    position: absolute;
+    width: 285px;
+    height: 61px;
+    top: 448px;
+    left: 265px;
+}
+
+.connectivity .text-wrapper-7 {
+    position: absolute;
+    top: 10px;
+    left: 37px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-4 {
+    width: 283px;
+    height: 61px;
+    background-color: #5b8292;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .group-3 {
+    position: absolute;
+    width: 285px;
+    height: 61px;
+    top: 550px;
+    left: 266px;
+}
+
+.connectivity .text-wrapper-8 {
+    position: absolute;
+    top: 9px;
+    left: 68px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-5 {
+    width: 283px;
+    height: 61px;
+    background-color: #5b7192;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .group-4 {
+    position: absolute;
+    width: 285px;
+    height: 61px;
+    top: 145px;
+    left: 917px;
+}
+
+.connectivity .text-wrapper-9 {
+    position: absolute;
+    top: 10px;
+    left: 51px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-6 {
+    width: 283px;
+    height: 61px;
+    background-color: #5b5d92;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .group-5 {
+    position: absolute;
+    width: 285px;
+    height: 61px;
+    top: 246px;
+    left: 917px;
+}
+
+.connectivity .text-wrapper-10 {
+    left: 84px;
+    position: absolute;
+    top: 10px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-7 {
+    width: 283px;
+    height: 61px;
+    background-color: #e8a4f9;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .group-6 {
+    position: absolute;
+    width: 285px;
+    height: 61px;
+    top: 347px;
+    left: 917px;
+}
+
+.connectivity .text-wrapper-11 {
+    left: 66px;
+    position: absolute;
+    top: 10px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-8 {
+    width: 283px;
+    height: 61px;
+    background-color: #86607b;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .group-7 {
+    position: absolute;
+    width: 366px;
+    height: 61px;
+    top: 550px;
+    left: 877px;
+}
+
+.connectivity .overlap {
+    width: 364px;
+    height: 61px;
+    position: relative;
+    border-radius: 50px;
+}
+
+.connectivity .text-wrapper-12 {
+    position: absolute;
+    top: 9px;
+    left: 25px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-9 {
+    width: 364px;
+    height: 61px;
+    background-color: #92694b;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}
+
+.connectivity .group-8 {
+    position: absolute;
+    width: 528px;
+    height: 57px;
+    top: 452px;
+    left: 781px;
+}
+
+.connectivity .overlap-2 {
+    width: 526px;
+    height: 57px;
+    position: relative;
+    border-radius: 50px;
+}
+
+.connectivity .text-wrapper-13 {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.connectivity .rectangle-10 {
+    width: 526px;
+    height: 57px;
+    background-color: #925463;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+    mix-blend-mode: multiply;
+}

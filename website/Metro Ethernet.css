@@ -1,0 +1,131 @@
+.metro-ethernet {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.metro-ethernet .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1693px;
+    position: relative;
+}
+
+.metro-ethernet .top-taksbar-menu {
+    position: absolute;
+    width: 738px;
+    height: 63px;
+    top: 18px;
+    left: 56px;
+}
+
+.metro-ethernet .CONNECTIVITY {
+    position: fixed;
+    width: 238px;
+    height: 25px;
+    top: 0;
+    left: 0;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 20px; /* Anda dapat menyesuaikan ukuran font sesuai kebutuhan */
+    line-height: 25px; /* Sesuaikan dengan tinggi elemen */
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Untuk memastikan teks berada di tengah */
+}
+
+.metro-ethernet .text-wrapper {
+    position: absolute;
+    top: 22px;
+    left: 187px;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.metro-ethernet .text-wrapper-2 {
+    position: absolute;
+    top: 22px;
+    left: 86px;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.metro-ethernet .text-wrapper-3 {
+    position: absolute;
+    top: 22px;
+    left: 0;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.metro-ethernet .image {
+    position: absolute;
+    width: 136px;
+    height: 63px;
+    top: 0;
+    left: 596px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+}
+
+.metro-ethernet .CONNECTIVITY {
+    position: absolute;
+    width: 238px;
+    height: 25px;
+    top: 110px;
+    left: 601px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+}
+
+.metro-ethernet .text-wrapper-4 {
+    position: absolute;
+    top: 160px;
+    left: 602px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.metro-ethernet .deskripsi-layanan {
+    position: absolute;
+    width: 1294px;
+    top: 573px;
+    left: 44px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.metro-ethernet .spesifikasi-dan-fitur {
+    position: absolute;
+    width: 1297px;
+    top: 1069px;
+    left: 44px;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}

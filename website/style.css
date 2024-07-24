@@ -1,0 +1,338 @@
+.cover {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.cover .div {
+    background-color: #ffffff;
+    overflow-x: hidden;
+    width: 1440px;
+    height: 2444px;
+    position: relative;
+}
+
+.cover .about {
+    position: absolute;
+    width: 1440px;
+    height: 735px;
+    top: 1673px;
+    left: 0;
+}
+
+.cover .about-us-content {
+    width: 1442px;
+    height: 735px;
+}
+
+.cover .overlap-group {
+    position: relative;
+    width: 1440px;
+    height: 735px;
+}
+
+.cover .rectangle {
+    width: 1440px;
+    height: 648px;
+    left: 0;
+    background-color: #43a4e1;
+    position: absolute;
+    top: 0;
+}
+
+.cover .image {
+    position: absolute;
+    width: 275px;
+    height: 183px;
+    display: flex;
+    justify-content: center;
+    top: 12p;
+    left: 0;
+}
+
+.cover .description {
+    width: 1094px;
+    top: 164px;
+    left: 173px;
+    font-family: "Sans-SemiBold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    line-height: 22px;
+    position: absolute;
+    -webkit-text-stroke: 1px #433f3f80;
+    font-size: 20px;
+    text-align: justify;
+    letter-spacing: 0;
+}
+
+.cover .text-wrapper {
+    font-weight: 600;
+    color: #d42f34;
+}
+
+.cover .span {
+    font-family: "Sans-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+}
+
+.cover .picture-mask {
+    position: absolute;
+    width: 964px;
+    height: 361px;
+    top: 374px;
+    left: 239px;
+}
+
+.cover .part-title-about-us {
+    position: absolute;
+    width: 411px;
+    height: 106px;
+    top: 30px;
+    left: 516px;
+}
+
+.cover .text-wrapper-2 {
+    position: absolute;
+    width: 254px;
+    top: 0;
+    left: 76px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #191619;
+    font-size: 44px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.cover .p {
+    position: absolute;
+    top: 84px;
+    left: 0;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+}
+
+.cover .tagline-and-survey {
+    position: absolute;
+    width: 581px;
+    height: 136px;
+    top: 737px;
+    left: 433px;
+}
+
+.cover .overlap {
+    position: absolute;
+    width: 577px;
+    height: 81px;
+    top: 0;
+    left: 0;
+}
+
+.cover .rect-text {
+    position: absolute;
+    width: 516px;
+    height: 35px;
+    top: 46px;
+    left: 34px;
+}
+
+.cover .rectangle-2 {
+    width: 336px;
+    height: 35px;
+    left: 180px;
+    background-color: #aee1dc;
+    border-radius: 5px;
+    position: absolute;
+    top: 0;
+}
+
+.cover .rectangle-3 {
+    width: 115px;
+    height: 35px;
+    left: 0;
+    background-color: #aee1dc;
+    border-radius: 5px;
+    position: absolute;
+    top: 0;
+}
+
+.cover .menerangi-masa-depan {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Sans-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: transparent;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.cover .text-wrapper-3 {
+    color: #2f3f72;
+}
+
+.cover .text-wrapper-4 {
+    color: #000000;
+}
+
+.cover .text-wrapper-5 {
+    color: #ffffff;
+}
+
+.cover .text-wrapper-6 {
+    position: absolute;
+    top: 86px;
+    left: 128px;
+    font-family: "Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.cover .click-survey {
+    position: absolute;
+    width: 44px;
+    height: 16px;
+    top: 120px;
+    left: 268px;
+}
+
+.cover .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Sans-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.cover .top-taskbar-menu {
+    position: absolute;
+    width: 945px;
+    height: 502px;
+    top: 40px;
+    left: 56px;
+}
+
+.cover .text-wrapper-8 {
+    position: absolute;
+    top: 0;
+    left: 186px;
+    font-family: "Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.cover .text-wrapper-9 {
+    position: absolute;
+    top: 0;
+    left: 86px;
+    font-family: "Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.cover .text-wrapper-10 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.cover .img {
+    position: absolute;
+    width: 504px;
+    height: 295px;
+    top: 207px;
+    left: 435px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+}
+
+.cover .about-video {
+    position: absolute;
+    width: 1444px;
+    height: 580px;
+    top: 998px;
+    left: -1px;
+}
+
+.cover .overlap-2 {
+    position: relative;
+    width: 1452px;
+    height: 592px;
+    top: -6px;
+    left: -6px;
+    background-image: url(./img/img-page-survey.png);
+    background-size: 100% 100%;
+}
+
+.cover .description-about {
+    width: 824px;
+    top: 247px;
+    left: 315px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #fbfbfb;
+    line-height: normal;
+    position: absolute;
+    -webkit-text-stroke: 1px #433f3f80;
+    font-size: 20px;
+    text-align: justify;
+    letter-spacing: 0;
+}
+
+.cover .connect-your-digital {
+    position: absolute;
+    height: 154px;
+    top: 45px;
+    left: 386px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 10;
+}
+
+.cover .circled-play {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 383px;
+    left: 677px;
+}

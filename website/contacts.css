@@ -1,0 +1,146 @@
+.contacts {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.contacts .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 668px;
+    position: relative;
+}
+
+.contacts .top-taskbar-menu {
+    position: absolute;
+    width: 738px;
+    height: 63px;
+    top: 18px;
+    left: 56px;
+}
+
+.contacts .text-wrapper {
+    position: absolute;
+    top: 22px;
+    left: 186px;
+    font-family: "Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contacts .text-wrapper-2 {
+    position: absolute;
+    top: 22px;
+    left: 86px;
+    font-family: "Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contacts .text-wrapper-3 {
+    position: absolute;
+    top: 22px;
+    left: 0;
+    font-family: "Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #191619;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contacts .image {
+    position: absolute;
+    width: 136px;
+    height: 63px;
+    top: 0;
+    left: 596px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+}
+
+.contacts .lisitng-section {
+    position: absolute;
+    width: 1134px;
+    height: 473px;
+    top: 139px;
+    left: 142px;
+}
+
+.contacts .overlap-group {
+    position: relative;
+    width: 1126px;
+    height: 473px;
+    background-color: #43a4e1;
+    border-radius: 20.44px;
+}
+
+.contacts .text-wrapper-4 {
+    position: absolute;
+    width: 824px;
+    height: 61px;
+    top: 369px;
+    left: 63px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Neuton-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contacts .PLN-PIKITRING-jalan {
+    position: absolute;
+    width: 824px;
+    height: 116px;
+    top: 237px;
+    left: 63px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Noto Serif Kannada-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contacts .text-wrapper-5 {
+    position: absolute;
+    width: 158px;
+    top: 23px;
+    left: 499px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Red Hat Display-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: var(--colorwhite);
+    font-size: 36px;
+    letter-spacing: -0.45px;
+    line-height: 32.7px;
+}
+
+.contacts .PLN-ICON-PLUS-SBU {
+    position: absolute;
+    width: 574px;
+    height: 72px;
+    top: 107px;
+    left: 63px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
